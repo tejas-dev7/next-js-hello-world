@@ -1,0 +1,30 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build output
+.next
+out
+build
+
+# Git
+.git
+.gitignore
+
+# Env and secrets
+.env
+.env*.local
+
+# IDE and OS
+.DS_Store
+*.pem
+.idea
+.vscode
+
+# Debug and misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.md
+.vercel
